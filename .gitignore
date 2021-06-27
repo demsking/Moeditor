@@ -40,3 +40,5 @@ jspm_packages
 
 # Jetbrains IDEs
 .idea
+
+dist/
